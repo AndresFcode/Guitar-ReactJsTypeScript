@@ -1,5 +1,7 @@
-https://guitar-reactjs-typescript.vercel.app/
 
+Link: https://guitar-reactjs-typescript.vercel.app/
+
+Herramientas: Reactjs. Typescript. TailwindCSS.
 
 
 # React + TypeScript + Vite
