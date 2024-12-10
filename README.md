@@ -1,9 +1,3 @@
-
-Link: https://guitar-reactjs-typescript.vercel.app/
-
-Herramientas: Reactjs. Typescript. TailwindCSS.
-
-
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
